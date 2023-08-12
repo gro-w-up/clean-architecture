@@ -9,7 +9,6 @@
 - 2️⃣ fork한 repository를 개인 컴퓨터에 clone합니다.
 - 3️⃣ 매 주 목표의 독서량을 읽고 정리하여 코드 저장(commit) & 원격 저장소 저장(push)를 합니다.
 - 4️⃣ github에서 PR(pull request)를 작성합니다.
-  + PR 목적지는 스터디 대상 프로젝트의 "본인의 이름 이니셜" branch로 한다.
   + PR 출발지는 fork한 자신의 저장소의 3️⃣번에서 생성한 branch로 한다.
   + ex) clean-architecture:master <- clean-architecture:origin/master
 - 5️⃣ 커밋 메시지를 작성합니다. PR 규칙 및 Commet Message 규칙 참고
